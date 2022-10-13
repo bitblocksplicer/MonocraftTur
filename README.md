@@ -1,6 +1,6 @@
 # MonocraftTur
 
-A Monocraft Fork for Turkish letters. 
+A Monocraft Fork for Turkish letters. <br />
 ![resim](https://user-images.githubusercontent.com/28842754/195703269-884aa766-fc31-42c0-a7c5-867b31546cfc.png)
 
 
