@@ -19,7 +19,7 @@ U+011E 	LATIN CAPITAL LETTER G WITH BREVE         : Ğ<br />
 
 Lütfen [releases](https://github.com/burakowski/MonocraftTur/releases) kısmından güncel sürümü kontrol ederek son sürümü indirin.<br />
 Windows'ta *.ttf uzantılı dosyayı indirdikten sonra sağ tıklayıp "Tüm kullanıcılar için yükle" seçeneğini seçmeniz yeterlidir.<br />
-MacOS için lütfen [https://support.apple.com/tr-tr/HT201749](https://support.apple.com/tr-tr/HT201749) buradaki adımları izleyin.<br />
+MacOS için lütfen [buradaki](https://support.apple.com/tr-tr/HT201749) adımları izleyin.<br />
 
 -----
 It has been edited faithfully to Minecraft's original font family.<br />
