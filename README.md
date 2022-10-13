@@ -1,7 +1,8 @@
 # MonocraftTur
 
 A Monocraft Fork for Turkish letters. 
-![resim](https://user-images.githubusercontent.com/28842754/195694015-b1b70cca-e4a3-425b-bad8-c5d099bcb37d.png)
+![resim](https://user-images.githubusercontent.com/28842754/195698665-8cc915ab-f0df-4b2d-b3fa-67a0bebac800.png)
+
 
 ## Added letters:<br />
 U+0130 	LATIN CAPITAL LETTER I WITH DOT ABOVE     : İ<br />
