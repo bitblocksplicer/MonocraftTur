@@ -1,3 +1,4 @@
+# dEPRECATED
 # MonocraftTur
 
 A Monocraft Fork for Turkish letters. <br />
