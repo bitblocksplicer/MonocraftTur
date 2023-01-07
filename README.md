@@ -1,4 +1,8 @@
 # DEPRECATED
+
+The main repo, Monocraft by IdreesInc, is updated to support Turkish letters. Thanks to him, we don't need this fork anymore. 
+You can find the main repo [here](https://github.com/IdreesInc/Monocraft)
+
 # MonocraftTur
 
 A Monocraft Fork for Turkish letters. <br />
