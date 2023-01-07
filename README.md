@@ -1,3 +1,4 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # DEPRECATED
 
 The main repo, Monocraft by IdreesInc, is updated to support Turkish letters. Thanks to him, we don't need this fork anymore. 
